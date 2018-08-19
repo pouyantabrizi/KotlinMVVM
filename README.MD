@@ -1,6 +1,6 @@
 # KOTLIN with MVVM
 
-Very simple android application based on Kotlin language and mvvm architecture(pattern)
+Very simple android application based on Kotlin language and mvvm architecture pattern
 (in progress)
 
 
