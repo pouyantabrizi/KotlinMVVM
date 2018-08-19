@@ -10,7 +10,7 @@ import ir.urmis.kotlinMVVM.di.UtilsModule
 /**
  * Created by Pouyan Tabrizi on 8/18/18.
  */
-class PelikanApp : Application() {
+class KotlinApp : Application() {
 
     fun getAppComponent(): AppComponent {
         return DaggerAppComponent.builder().appModule(AppModule(this)).utilsModule(UtilsModule()).build()
